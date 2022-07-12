@@ -3,7 +3,7 @@ layout: default
 title: "Part 2: Part2Title"
 nav_order: 4
 has_children: true
-permalink: docs/core-and-profiles
+permalink: docs/core-and-profiles.html
 ---
 
 # Part 2: Part 2 title
