@@ -3,7 +3,7 @@ layout: default
 title: "Part 1: Part1Title"
 nav_order: 3
 has_children: true
-permalink: docs/motivation
+permalink: docs/motivation.html
 ---
 
 # Part 1: title
