@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 1.1 Map
-parent: "Playbook"
+parent: "AI RMF Playbook"
+nav_order: 2
 ---
 
 ## 1.1 Map
