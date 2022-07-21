@@ -1,0 +1,20 @@
+- name:
+  link: https://facebook.com/nist
+  social_icon: Facebook
+  new_window: true
+- name:
+  link: https://twitter.com/nist
+  social_icon: Twitter
+  new_window: true
+- name:
+  link: https://youtube.com/nist
+  social_icon: YouTube
+  new_window: true
+- name: 
+  link: https://instagram.com/nist
+  social_icon: Instagram
+  new_window: true
+- name:
+  link: https://linkedin.com/company/nist
+  social_icon: linkedin
+  new_window: true

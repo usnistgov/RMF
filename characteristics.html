@@ -1,0 +1,28 @@
+---
+---
+<section class="categories">
+        {% assign categories = site.categories %}
+        {% for category in categories %}
+        <br>
+        {% if category[0]=='Bias' or category[0]=='Assurance' or category[0]=='Accuracy' or category[0]=='Reliability' or category[0]=='Robustness' %}
+                {% assign name = category[0] %}
+                {% assign posts = category[1]  | where: "type", "Characteristics" %}
+                {% assign size = posts | size %}
+                     <section class="category">
+                                <h3>
+                                        <a>{{ name | replace: "-", " " }}</a>
+                                </h3>
+
+                          <ul>
+                                {% assign tutorials = posts | sort: "order_number" %}
+                                {% for tutorial in tutorials limit: 4 %}
+                                        <li><a>{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+                                {% endfor %}
+                                {% if size > 4 %}
+                                        <li><a>{{ size | minus: 4 }} more...</a></li>
+                                {% endif %}
+                          </ul>
+                     </section>
+        {% endif %}
+        {% endfor %}
+</section>

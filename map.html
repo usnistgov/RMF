@@ -1,0 +1,31 @@
+---
+---
+<p style="font-family:'Open Sans'">
+The Map function establishes the context and frames risks related to an AI system. The information gathered while carrying out this function informs decisions about model management, including an initial decision about appropriateness or the need for an AI solution. Determination of whether AI use is appropriate or warranted can be considered in comparison to the status quo per a qualitative or more formal quantitative analysis of benefits, costs, and risks. 
+</p>
+
+<section class="categories">
+        {% assign categories = site.categories | sort %}
+        {% for category in categories %}
+        {% if category[0]=='1-Context' or category[0]=='2-Operation' or category[0]=='3-Benefits' or category[0]=='4-Third-Party' or category[0]=='5-Impact-Assessment' %}
+                {% assign name = category[0] %}
+                {% assign posts = category[1]  | where: "type", "Map" %}
+                {% assign size = posts | size %}
+                     <section class="category">
+                                <h3>
+                                        <a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
+                                </h3>
+
+                          <ul>
+                                {% assign tutorials = posts | sort: "order_number" %}
+                                {% for tutorial in tutorials limit: 4 %}
+                                        <li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+                                {% endfor %}
+                                {% if size > 4 %}
+                                        <li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
+                                {% endif %}
+                          </ul>
+                     </section>
+        {% endif %}
+        {% endfor %}
+</section>

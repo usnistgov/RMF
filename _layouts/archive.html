@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% assign posts = page.posts | sort: "title" %}
+{% assign tname = posts[0].type %}
+
+<a href="{{ site.baseurl }}/{{ tname }}/" style="float:right">{{ tname | upcase }}</a>
+
+<h3 style="text-transform:capitalize;">{{ page.title | replace: "-", " " }} <span class="count">({{ posts | size }})</span></h3>
+
+{% assign cat =  site.data.category | where: "name", page.title %}
+
+<p style="font-family:'Open Sans'">
+	{{ cat[0].description }}
+</p>
+
+<br/>
+{% include listings.html listings=posts %}

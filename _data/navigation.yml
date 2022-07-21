@@ -1,0 +1,13 @@
+- name: HOME
+  link: /
+- name: GOVERN  
+  link: /govern/
+- name: MAP
+  link: /map/
+- name: MEASURE  
+  link: /measure/
+- name: MANAGE
+- name: CHARACTERISTICS
+  link: /characteristics/
+- name: TERMS
+  link: /terms/

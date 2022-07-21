@@ -2,4 +2,76 @@
 layout: default
 ---
 
-{{ content }}
+<section class="tutorial">
+	<section class="sidebar sticky">
+		<ul>
+			{% assign sub_navigation = content | extract_element: 'h2' %}
+			{% for item in sub_navigation %}
+				<li><a href="#{{ item.id }}">{{ item.text }}</a></li>
+			{% endfor %}
+		</ul>
+	</section>
+	<section class="tutorial-content">
+                {% assign tname = page.type %}
+                <a href="{{ site.baseurl }}/{{ tname }}/">{{ tname | upcase }}</a>
+                &nbsp/&nbsp
+                {% assign cname = page.categories[0] | replace: "-", " "  %}
+                <a href="{{ site.baseurl }}/category/{{ page.categories[0] }}/">{{ cname }}</a>
+	        <br>
+                {% assign nnn = page.categories[0] | replace: ".", "-" | replace: " ", "-" %}
+
+                <h2> {{ page.title }} </h2>
+
+
+		<div class="tutorial-main">
+                        {% if content contains '<!--more-->' %}
+                            {% assign blocks = content | split:'<!--more-->' %}
+                            {% if blocks.size==4 %}
+
+                           	 {{ blocks[0] }}
+
+                           	 {% assign blockid1 =  page.url | append: '#what-is-this-sub-category-about' %}
+                           	 <input type="checkbox" class="read-more-state" id="{{ blockid1 }}"/>
+                           	 <div class="read-more", id="{{ blockid1 }}">
+                               		 {{ blocks [1] }}
+                           	 </div>
+                                 <label for="{{ blockid1 }}" class="read-more-trigger"></label>
+
+                           	 {{ blocks[2] }}
+                            
+                           	 {% assign blockid2 =  page.url | append: '#where-might-i-go-to-learn-more' %}
+                           	 <input type="checkbox" class="cont-more-state" id="{{ blockid2 }}" />
+				 <div class="cont-more", id="{{ blockid2 }}">
+                                	{{ blocks [3] }}
+                           	 </div>
+                                 <label for="{{ blockid2 }}" class="cont-more-trigger"></label>
+                            {% else %}
+                                 {% if blocks.size==2 %}
+                                     {{ blocks[0] }}
+
+                      		     <input type="checkbox" class="read-more-state" id="{{ page.url }}"/>
+                                     <div class="read-more">
+                                         {{ blocks [1] }}
+                                     </div>
+                                     <label for="{{ page.url }}" class="read-more-trigger"></label>
+
+                                 {% else %}
+                                	 {{ content }}
+                                 {% endif %}
+                            {% endif %}
+
+			{% else %}
+   			   {{ content }}
+			{% endif %}
+
+                </div>
+
+                <a href={{ page.url }} class="back-to-top">
+  		  Back to Top &uarr;
+		</a>
+
+	</section>
+</section>
+
+
+

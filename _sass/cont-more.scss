@@ -1,0 +1,39 @@
+.cont-more {
+    opacity: 0;
+    max-height: 0;
+    font-size: 0;
+    transition: .25s ease;
+    display: none;
+}
+
+.cont-more-state {
+  display: none;
+}
+
+.cont-more-state:checked ~ .cont-more {
+  opacity: 1;
+  font-size: inherit;
+  max-height: 999em;
+  display: inherit;
+}
+
+.cont-more-state ~ .cont-more-trigger:before {
+  content: 'Show more...';
+}
+
+.cont-more-state:checked ~ .cont-more-trigger:before {
+  content: 'Show less...';
+}
+
+.cont-more-trigger {
+  cursor: pointer;
+  padding: 1em .5em;
+  color: #0085bd;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #0085bd;
+  border-radius: .25em;
+  font-weight: 500;
+  display: grid;
+  text-align: center;
+}

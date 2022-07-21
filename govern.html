@@ -1,0 +1,31 @@
+---
+---
+<p style="font-family:'Open Sans'">
+The Govern function cultivates and implements a culture of risk management within organizations designing, developing, deploying, or acquiring AI systems. Governance is designed to ensure risks and potential impacts are identified, measured, and managed effectively and consistently. Governance processes focused on potential impacts of AI technologies and are the backbone of risk management. The categories in this function interact with each other but do not necessarily build on prior actions.
+</p>
+
+<section class="categories">
+        {% assign categories = site.categories | sort %}
+        {% for category in categories %}
+        {% if category[0]=='1-4Ps' or category[0]=='2-Accountability' or category[0]=='3-Workforce' or category[0]=='4-Risk-Culture' or category[0]=='5-Impacts' or category[0]=='6-Third-Party' %}
+                {% assign name = category[0] %}
+                {% assign posts = category[1]  | where: "type", "Govern" %}
+                {% assign size = posts | size %}
+                     <section class="category">
+                                <h3>
+                                        <a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
+                                </h3>
+
+                          <ul>
+                                {% assign tutorials = posts | sort: "order_number" %}
+                                {% for tutorial in tutorials limit: 4 %}
+                                        <li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+                                {% endfor %}
+                                {% if size > 4 %}
+                                        <li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
+                                {% endif %}
+                          </ul>
+                     </section>
+        {% endif %}
+        {% endfor %}
+</section>

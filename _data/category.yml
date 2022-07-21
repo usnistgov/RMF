@@ -1,0 +1,32 @@
+- name: 1-Context
+  description: In this category, AI Actors will define the context of use, business value and mission goals related to the AI technology,  set of stakeholders for engagement, and system requirements and design decisions. At the end of this exercise, AI actors should have sufficient contextual information to make decisions about downstream processes.
+
+- name: 2-Operation 
+  description: In this category, AI Actors will have contextually defined and scoped the learning task of the system, deployment factors, and dataset considerations. At the end of this exercise, AI actors should have sufficient knowledge to further refine system scope.
+
+- name: 3-Benefits
+  description: In this category, AI Actors will have contextually defined the cost (both monetary and otherwise) and benefits of the system beyond the status quo, so scope can be narrowed. At the end of this exercise, AI actors should have sufficient knowledge to identify system risks and other impacts.
+
+- name: 4-Third-Party
+  description: In this category, AI Actors will pay specific attention to risks due to third-party factors. At the end of this exercise, AI actors should have instituted controls for these risks.
+
+- name: 5-Impact-Assessment
+  description: In this category, AI Actors will carry out an impact assessment by identifying known risks and set up processes to consider emergent risks. At the end of this exercise, AI actors should have sufficient knowledge to make a go/no-go decision.
+
+- name: 1-4Ps
+  description: In this category, Organizational management focuses on the establishment of core policies, processes, procedures and practices. 
+
+- name: 2-Accountability
+  description: In this category, Organizational management sets the pace for accountability through detailed roles and responsibilities.
+
+- name: 3-Workforce
+  description: In this category, management ensures organizational effectiveness through a diverse workforce and consultation with external personnel.
+
+- name: 4-Risk-Culture
+  description: In this category, Organizational management fosters a strong internal risk culture.
+
+- name: 5-Impacts
+  description: In this category, Organizational management formulizes processes for receiving, processing, and implementing stakeholder, user, or subject feedback.
+
+- name: 6-Third-Party
+  description: In this category, Organizational management establishes policies to consider risks due to supply chain issues.
