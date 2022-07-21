@@ -13,7 +13,7 @@ layout: default
 	</section>
 	<section class="tutorial-content">
                 {% assign tname = page.type %}
-                <a href="{{ site.baseurl }}/{{ tname }}/">{{ tname | upcase }}</a>
+                <a href="{{ site.baseurl }}/{{ tname | downcase }}.html">{{ tname | upcase }}</a>
                 &nbsp/&nbsp
                 {% assign cname = page.categories[0] | replace: "-", " "  %}
                 <a href="{{ site.baseurl }}/category/{{ page.categories[0] }}/">{{ cname }}</a>
