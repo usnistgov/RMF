@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: 
   links:
     - 
 
@@ -32,6 +32,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
+
+gems: ["jekyll-extract-element","jekyll-sitemap", "jekyll-seo-tag", "jekyll-feed", "jekyll-archives"]
 
 exclude:
   - Gemfile
@@ -70,16 +72,6 @@ defaults:
       body_class: "show_hero_search"
 
 # -----------
-
-social_icons:
-  - Facebook
-  - Instagram
-  - LinkedIn
-  - Twitter
-  - YouTube
-  - Email
-  - RSS
-
 types:
   - Document
   - Govern
@@ -88,4 +80,3 @@ types:
   - Management
   - Characteristics
 
-_comments:
