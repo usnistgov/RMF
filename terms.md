@@ -7,21 +7,6 @@ permalink:
 
 ## AI Actors ##
 
-<br>
-**Organizational Management**  
-&nbsp; &nbsp; Responsible for line management, accountability, governance and strategy.
-
-**AI Designers**  
-&nbsp; &nbsp; Assure the planning, design, and data collection a processing tasks of the AI system.
-
-**AI Developers**  
-&nbsp; &nbsp; Responsible for model building and interpretation tasks, including creation or selection of models or algorithms, calibration and/or training and interpretation.
-
-**AI Impact Assessment Teams**  
-&nbsp; &nbsp; Responsible for assessing and evaluating requirements for algorithmic accountability, combating bias, intended and unintended impacts of AI systems, product safety, liability and security.
-
-{: .mbtablestyle }
-
 <style>
 table{
     border-collapse: collapse;
