@@ -65,8 +65,9 @@ layout: default
 			{% endif %}
 
                 </div>
+                {{ site.baseurl}}
                 {{ page.url }}
-                <a href="{{ page.url }}" class="back-to-top">
+                <a href={{ page.url }} class="back-to-top">
   		  Back to Top &uarr;
 		</a>
 
