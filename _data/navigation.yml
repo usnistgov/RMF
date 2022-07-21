@@ -1,13 +1,13 @@
 - name: HOME
   link: /
 - name: GOVERN  
-  link: /govern/
+  link: /govern.html
 - name: MAP
-  link: /map/
+  link: /map.html
 - name: MEASURE  
-  link: /measure/
+  link: /measure.html
 - name: MANAGE
 - name: CHARACTERISTICS
-  link: /characteristics/
+  link: /characteristics.html
 - name: TERMS
-  link: /terms/
+  link: /terms.html
