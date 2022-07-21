@@ -25,7 +25,6 @@ social:
 
 timezone: Etc/UTC
 
-permalink: /:categories/:title/
 
 plugins:
   - jekyll-extract-element
@@ -71,15 +70,11 @@ defaults:
       body_class: "show_hero_search"
 
 # -----------
-# CloudCannon
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - Email
