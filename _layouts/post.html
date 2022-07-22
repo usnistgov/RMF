@@ -19,7 +19,7 @@ layout: default
                 <a href="{{ site.baseurl }}/{{ tname | downcase }}.html">{{ tname | upcase }}</a>
                 &nbsp/&nbsp
                 {% assign cname = page.categories[0] | replace: "-", " "  %}
-                <a href="{{ site.baseurl }}/category/{{ page.categories[0] }}/">{{ cname }}</a>
+                <a href="{{ site.baseurl }}/category/{{ page.categories[0] | downcase }}/">{{ cname }}</a>
 	        <br>
                 {% assign nnn = page.categories[0] | replace: ".", "-" | replace: " ", "-" %}
 
