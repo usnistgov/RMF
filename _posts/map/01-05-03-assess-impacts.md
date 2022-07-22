@@ -8,8 +8,6 @@ type: Map
 order_number: 3
 ---
 
-Introduction.
-
 ## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
 Column C
@@ -17,6 +15,14 @@ Column C
 ## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
 
 Column E
+
+## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+
+Column G
+
+## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+
+Column H
 
 ## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
 

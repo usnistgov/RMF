@@ -30,6 +30,24 @@ Define the context of use, including operational environment; impacts to individ
 
 Identify human-AI interaction and/or roles, such as whether the application will support human decision making, replace a human, and make predictions; plan for risks related to these configurations; and document requirements, roles, and responsibilities for human oversight of deployed systems. 
 
+## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
+
+[Organizational management, AI design, AI development, AI deployment, Domain experts, Human factors]
+
+## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
+
+**Transparency Considerations – Key Questions: MAP 1.1** 
+-  Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
+- Who will be responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
+- Who is accountable for the ethical considerations during all stages of the AI lifecycle?
+- Why was the dataset created? (e.g., were there specific tasks in mind, or a specific gap that needed to be filled?)
+- How does the entity ensure that the data collected are adequate, relevant, and not excessive in relation to the intended purpose?
+
+**AI Transparency Resources: MAP 1.1**
+- Datasheets for Datasets
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
+- “Stakeholders in Explainable AI,” Sep. 2018, [Online]. [link](http://arxiv.org/abs/1810.00184)
+
 ## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
 
 <!--more-->
