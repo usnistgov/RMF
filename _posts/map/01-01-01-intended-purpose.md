@@ -14,21 +14,14 @@ Have the purpose, setting, users, operators, or subjects, expectations, benefits
 
 ## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
 
-Plan and document the composition of AI design and development teams to reflect inter-disciplinary roles, competencies, skills and capacity for AI efforts; and ensure that team membership incorporates demographic diversity and broad domain expertise. 
-
-Gain and maintain familiarity with the complexities and interdependencies of deployed AI systems; terminology and concepts from disciplines outside of AI practice such as the law, sociology, psychology, public policy, and systems design and engineering. 
-
-Maintain awareness of industry and technical standards and appropriate legal standards. 
-
-Track, document or inventory the organization's AI systems, including existing systems and third-party entities associated with AI systems.
-
-Gain and maintain awareness for how to scientifically evaulate claims about AI system performance and benefits before launching into system design and development to enable adherence to responsible practices. 
-
-Define and document the task, purpose, minimum functionality, and benefits of the AI system, and consider whether the project is worth pursuing. 
-
-Define the context of use, including operational environment; impacts to individuals, groups, communities, organizations, and society; user characteristics; task; and social environment; determine the user and organizational requirements, including business requirements, user requirements, and technical requirements. 
-
-Identify human-AI interaction and/or roles, such as whether the application will support human decision making, replace a human, and make predictions; plan for risks related to these configurations; and document requirements, roles, and responsibilities for human oversight of deployed systems. 
+- Plan and document the composition of AI design and development teams to reflect inter-disciplinary roles, competencies, skills and capacity for AI efforts; and ensure that team membership incorporates demographic diversity and broad domain expertise. 
+- Gain and maintain familiarity with the complexities and interdependencies of deployed AI systems; terminology and concepts from disciplines outside of AI practice such as the law, sociology, psychology, public policy, and systems design and engineering. 
+- Maintain awareness of industry and technical standards and appropriate legal standards. 
+- Track, document or inventory the organization's AI systems, including existing systems and third-party entities associated with AI systems.
+- Gain and maintain awareness for how to scientifically evaulate claims about AI system performance and benefits before launching into system design and development to enable adherence to responsible practices. 
+- Define and document the task, purpose, minimum functionality, and benefits of the AI system, and consider whether the project is worth pursuing. 
+- Define the context of use, including operational environment; impacts to individuals, groups, communities, organizations, and society; user characteristics; task; and social environment; determine the user and organizational requirements, including business requirements, user requirements, and technical requirements. 
+- Identify human-AI interaction and/or roles, such as whether the application will support human decision making, replace a human, and make predictions; plan for risks related to these configurations; and document requirements, roles, and responsibilities for human oversight of deployed systems. 
 
 ## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
 
@@ -65,26 +58,26 @@ A fundamental step to mapping context is having a broad and appropriate set of s
 For more information about:
 
 **Socio-technical systems**      
-Andrew D. Selbst, Danah Boyd, Sorelle A. Friedler, et al. 2019. "Fairness and Abstraction in Sociotechnical Systems." *In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT'19). Association for Computing Machinery, New York, NY, USA, 59–68.* [link](https://doi.org/10.1145/3287560.3287598)
+Andrew D. Selbst, Danah Boyd, Sorelle A. Friedler, et al. 2019. Fairness and Abstraction in Sociotechnical Systems. *In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT'19). Association for Computing Machinery, New York, NY, USA, 59–68.* [link](https://doi.org/10.1145/3287560.3287598)
 
 **Problem formulation**    
-Roel Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2021. "Hard choices in artificial intelligence." *Artificial Intelligence 300 (14 July 2021), 103555, ISSN 0004-3702.* [link](https://doi.org/10.1016/j.artint.2021.103555)
+Roel Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2021. Hard choices in artificial intelligence. *Artificial Intelligence 300 (14 July 2021), 103555, ISSN 0004-3702.* [link](https://doi.org/10.1016/j.artint.2021.103555)
 
-Samir Passi and Solon Barocas. 2019. Problem Formulation and Fairness. "In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT'19). Association for Computing Machinery, New York, NY, USA, 39–48." [link](https://doi.org/10.1145/3287560.3287567)
+Samir Passi and Solon Barocas. 2019. Problem Formulation and Fairness. *In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT'19). Association for Computing Machinery, New York, NY, USA, 39–48.* [link](https://doi.org/10.1145/3287560.3287567)
 
 **Context mapping**    
-Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). Retrieved from https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en
+Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. *Joint Research Centre (European Commission).* Retrieved from [link](https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en)
 
-Sarah Spiekermann and Till Winkler. 2020. Value-based Engineering for Ethics by Design. arXiv:2004.13676. Retrieved from https://arxiv.org/abs/2004.13676
+Sarah Spiekermann and Till Winkler. 2020. Value-based Engineering for Ethics by Design. *arXiv:2004.13676.*  Retrieved from [link](https://arxiv.org/abs/2004.13676)
 
-Social Impact Lab. 2017. Framework for Context Analysis of Technologies in Social Change Projects (Draft v2.0). Retrieved from https://www.alnap.org/system/files/content/resource/files/main/Draft%20SIMLab%20Context%20Analysis%20Framework%20v2.0.pdf
+Social Impact Lab. 2017. Framework for Context Analysis of Technologies in Social Change Projects (Draft v2.0). Retrieved from [link](https://www.alnap.org/system/files/content/resource/files/main/Draft%20SIMLab%20Context%20Analysis%20Framework%20v2.0.pdf)
 
-Solon Barocas, Asia J. Biega, Margarita Boyarskaya, et al. 2021. Responsible computing during COVID-19 and beyond. Commun. ACM 64, 7 (July 2021), 30–32. https://doi.org/10.1145/3466612
+Solon Barocas, Asia J. Biega, Margarita Boyarskaya, et al. 2021. Responsible computing during COVID-19 and beyond. *Commun. ACM 64, 7 (July 2021), 30–32.* [link](https://doi.org/10.1145/3466612)
 
 **Identification of harms**    
-Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. arXiv:1901.10002. Retrieved from https://arxiv.org/abs/1901.10002
+Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. *arXiv:1901.10002.* Retrieved from [link](https://arxiv.org/abs/1901.10002)
 
-Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from https://arxiv.org/abs/2011.13416
+Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. *arXiv:2011.13416.* Retrieved from [link](https://arxiv.org/abs/2011.13416)
 
 **Measurement and evaluation**   
 Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 375–385. https://doi.org/10.1145/3442188.3445901
