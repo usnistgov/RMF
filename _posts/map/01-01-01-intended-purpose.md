@@ -37,7 +37,7 @@ Identify human-AI interaction and/or roles, such as whether the application will
 ## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
 
 **Transparency Considerations – Key Questions: MAP 1.1** 
--  Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
+- Who is ultimately responsible for the decisions of the AI and is this person aware of the intended uses and limitations of the analytic?
 - Who will be responsible for maintaining, re-verifying, monitoring, and updating this AI once deployed?
 - Who is accountable for the ethical considerations during all stages of the AI lifecycle?
 - Why was the dataset created? (e.g., were there specific tasks in mind, or a specific gap that needed to be filled?)

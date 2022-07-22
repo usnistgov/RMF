@@ -10,40 +10,35 @@ order_number: 1
 
 ## <span style="color:black;font-weight:360;font-size:26px">Question</span>
 
-Column C
+Have the benefits of the system been articulated and assessed?
 
 ## <span style="color:black;font-weight:360;font-size:26px">How can my organization implement this sub-category?</span>
 
-Perform a context analysis to list and assess specific negative impacts arising from a lack of trustworthy characteristics, including:
+Incorporate stakeholder feedback to document perceived system benefits above the status quo and align with other stakeholder needs; consider inclusion of a more formal cost-benefit analysis in subsequent measurement stages of risk management. 
 
-* Negative impacts are mapped to confusion matrix elements, e.g., true positives and true negative decisions leading to feedback loops and a lack of reliability, or false positives or false negatives leading to safety risks.
-* Negative impacts are mapped to numeric over- and under-prediction, e.g., a lack of robustness leads to frequent numeric under-prediction and undervaluing of assets.
-* Denigration, erasure, exnomination, misrecognition, stereotyping, underrepresenation and other content harms leading to biased or unfair outcomes are mapped.
-* If negative impacts are not direct or obvious, teams should engage in structured discussions with external stakeholders to document responses to:
-    * Who could be harmed?
-    * What could be harmed?
-    * When could harm arise?
-    * How could harm arise?
-
-Conduct context analysis and elicit and document stakeholder requirements using resources such as software engineering and product management guidance, user stories, user interaction/user experience (UI/UX) research; and document relevant technical and socio-technical trustworthy characteristics (such as ML-specific security vulnerabilities or recourse mechanisms for end-users).
-
-Provide robust processes and resources to AI designers and developers for enumeration of negative impacts in conjuction with system requirements, or for review or audit of harms mitigation once a system is deployed.
-
-Implement processes to evaluate qualitative and quantitative costs of internal and external failures of AI systems, with linkages to actions for prevention, detection, and/or correction of potential risks and related impacts. Evaluate failure costs to inform go/no-go decisions at all stages of the AI system lifecycle.
+Perform context analysis related to timeframe, safety concerns, geographic area, physical environment, ecosystems, social environment, and cultural norms within which the expected benefits or negative impacts exist. 
 
 ## <span style="color:black;font-weight:360;font-size:26px">[AI actors](https://pages.nist.gov/RMF/terms.html)</span>
 
-Column G
+[Organizational management, AI design, AI development, Human factors, TEVV]
 
 ## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
 
-Column H
+**Transparency Considerations – Key Questions: MAP 3.1** 
+- Did you communicate the benefits of the AI system to users? 
+- Did you provide appropriate training material and disclaimers to users on how to adequately use the AI system? 
+- Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?
+
+**AI Transparency Resources: MAP 3.1**
+- Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
+- GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
+- Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
 
 ## <span style="color:black;font-weight:360;font-size:26px">What is this sub-category about?</span>
 
 <!--more-->
 
-Column D
+AI systems have implicit and explicit costs, and inherent risks. Systems should present a benefit to counteract these costs and risks. To identify system benefits, organizations can define and document system purpose and utility, along with foreseeable costs, risks, and negative impacts. This information should include credible justification for anticipated benefits beyond the status quo.
 
 <!--more-->
 
@@ -51,5 +46,6 @@ Column D
 
 <!--more-->
 
-Column F
+Roel Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2021. Hard choices in artificial intelligence. Artificial Intelligence 300 (14 July 2021), 103555, ISSN 0004-3702. DOI: https://doi.org/10.1016/j.artint.2021.103555
 
+Samir Passi and Solon Barocas. 2019. Problem Formulation and Fairness. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* '19). Association for Computing Machinery, New York, NY, USA, 39–48. https://doi.org/10.1145/3287560.3287567
