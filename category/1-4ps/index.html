@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% assign cname = '1-4Ps' %}
+
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+	{% if category[0] == cname  %}
+
+              {% assign posts = category[1] | sort: "order_number" %}
+              {% assign size = posts | size %}
+
+              {% assign tname = posts[0].type %}
+              <a href="{{ site.baseurl }}/{{ tname | downcase}}.html" style="float:right">{{ tname | upcase }}</a>
+              <h3 style="text-transform:capitalize;">{{ cname | replace: "-", " " }} <span class="count">({{ posts | size }})</span></h3>
+              {% assign cat =  site.data.category | where: "name", cname  %}
+
+	      <p style="font-family:'Open Sans'">
+        		{{ cat[0].description }}
+	      </p>
+
+              {% include listings.html listings=posts %}
+        
+	{% endif %}
+{% endfor %}
