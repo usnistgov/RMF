@@ -44,9 +44,6 @@ exclude:
 collections:
   sets:
 
-permalink: /:categories/:title/
-
-
 jekyll-archives:
   enabled: ['categories', 'type']
 
