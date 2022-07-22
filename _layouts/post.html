@@ -5,10 +5,11 @@ layout: default
 <section class="tutorial">
 	<section class="sidebar sticky">
 		<ul>
-			{% assign sub_navigation = content | extract_element: 'h2' %}
-			{% for item in sub_navigation %}
-				<li><a href="#{{ item.id }}">{{ item.text }}</a></li>
-			{% endfor %}
+			<li><a href="#question">Question</a></li>
+			<li><a href="#how-can-my-organization-implement-this-sub-category">How can my organization implement this sub-category?</a></li>
+			<li><a href="#what-is-this-sub-category-about">What is this sub-category about?</a></li>
+			<li><a href="#where-might-i-go-to-learn-more">Where might I go to learn more?</a></li>
+
 		</ul>
 	</section>
 	<section class="tutorial-content">
