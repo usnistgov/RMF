@@ -12,7 +12,7 @@ layout: default
               {% assign size = posts | size %}
 
               {% assign tname = posts[0].type %}
-              <a href="{{ site.baseurl }}/{{ tname }}/" style="float:right">{{ tname | upcase }}</a>
+              <a href="{{ site.baseurl }}/{{ tname | downcase}}.html" style="float:right">{{ tname | upcase }}</a>
               <h3 style="text-transform:capitalize;">{{ cname | replace: "-", " " }} <span class="count">({{ posts | size }})</span></h3>
               {% assign cat =  site.data.category | where: "name", cname  %}
 
