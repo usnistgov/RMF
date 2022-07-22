@@ -26,12 +26,12 @@ Involve legal or product policy teams in developing and enforcing guidelines or 
 
 ## <span style="color:black;font-weight:360;font-size:26px">AI Transparency considerations and resources</span>
 
-**Transparency Considerations – Key Questions: MAP 3.**
+**Transparency Considerations – Key Questions: MAP 3.3**
 - To what extent has the entity clearly defined technical specifications and requirements for the AI system?
 - How do the technical specifications and requirements align with the AI system’s goals and objectives?
 - How might you respond to an intelligence consumer asking “How do you know this?”
 
-**AI Transparency Resources: MAP 3.1**
+**AI Transparency Resources: MAP 3.3**
 - Intel.gov: AI Ethics Framework for Intelligence Community  - 2020
 - GAO-21-519SP: AI Accountability Framework for Federal Agencies & Other Entities
 - Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019
