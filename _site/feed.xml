@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/RMF/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/RMF/" rel="alternate" type="text/html" /><updated>2022-07-22T22:04:01+00:00</updated><id>http://localhost:4000/RMF/</id><title type="html">AI RMF Playbook</title><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">5.3 Assessment Impacts</title><link href="http://localhost:4000/RMF/5-impact-assessment/2012/01/16/assess-impacts.html" rel="alternate" type="text/html" title="5.3 Assessment Impacts" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/5-impact-assessment/2012/01/16/assess-impacts</id><content type="html" xml:base="http://localhost:4000/RMF/5-impact-assessment/2012/01/16/assess-impacts.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have the potential harms been assessed in relation to the likelihood of such harms occurring and the expected benefits of the system?&lt;/p&gt;
+
+&lt;p&gt;If so, has this assessment been conducted by independent parties, either internally or externally?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Review all documentation, including the stated purpose and benefit of the system and the mapped harms and their associated likelihoods.&lt;/p&gt;
+
+&lt;p&gt;Collaboratively determine which harms can be mitigated. Document mitigation plans.&lt;/p&gt;
+
+&lt;p&gt;Document the system’s estimated risk. Do not deploy (no-go), or decommission, the system if estimated risk surpasses organizational tolerances or thresholds. Otherwise (go), assign the system to an appropriate risk tier and oversight resources should be assigned in alignment with assessed risk.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI deployment, Operators, Human factors, Domain experts]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 5.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To what extent do these policies foster public trust and confidence in the use of the AI system?&lt;/li&gt;
+  &lt;li&gt;What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system?&lt;/li&gt;
+  &lt;li&gt;How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 5.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Datasheets for Datasets&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;“AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019&lt;/li&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The final output of risk triage is the go/no-go decision. This decision should take into account the mapped harms from previous steps, and the organizational capacity for their mitigation. This harms mapping step should also list system benefits beyond the status quo. The go/no-go decision can be made by an independent third-party or organizational management. For higher risk systems, it is often appropriate for technical or risk executives to be involved in the approval of go/no-go decisions. The decision to deploy should not be made by AI design and development teams, whose objective judgement may be hindered by the incentive to deploy.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from &lt;a href=&quot;https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm&quot;&gt;Federal Reserve&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Elisa Jillson. 2021. Aiming for truth, fairness, and equity in your company’s use of AI (April 19, 2021). Retrieved on July 7, 2022 from &lt;a href=&quot;https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai&quot;&gt;FTC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sarah Spiekermann and Till Winkler. 2020. Value-based Engineering for Ethics by Design. arXiv:2004.13676. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/2004.13676&quot;&gt;arXiv:2004.13676&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sri Krishnamurthy. Quantifying Model Risk: Issues and approaches to measure and assess model risk when building quant models. QuantUniversity, Charlestown, MA. Retrieved on July 7, 2022 from &lt;a href=&quot;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.986.5412&amp;amp;rep=rep1&amp;amp;type=pdf&quot;&gt;citeseerx.ist.psu.edu&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Have the potential harms been assessed in relation to the likelihood of such harms occurring and the expected benefits of the system? If so, has this assessment been conducted by independent parties, either internally or externally? How can my organization implement this sub-category? Review all documentation, including the stated purpose and benefit of the system and the mapped harms and their associated likelihoods. Collaboratively determine which harms can be mitigated. Document mitigation plans. Document the system’s estimated risk. Do not deploy (no-go), or decommission, the system if estimated risk surpasses organizational tolerances or thresholds. Otherwise (go), assign the system to an appropriate risk tier and oversight resources should be assigned in alignment with assessed risk. AI actors [Organizational management, AI deployment, Operators, Human factors, Domain experts] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 5.3 To what extent do these policies foster public trust and confidence in the use of the AI system? What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system? How has the entity identified and mitigated potential impacts of bias in the data, including inequitable or discriminatory outcomes? AI Transparency Resources: MAP 5.3 Datasheets for Datasets GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019 Intel.gov: AI Ethics Framework for Intelligence Community - 2020 Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019 What is this sub-category about? The final output of risk triage is the go/no-go decision. This decision should take into account the mapped harms from previous steps, and the organizational capacity for their mitigation. This harms mapping step should also list system benefits beyond the status quo. The go/no-go decision can be made by an independent third-party or organizational management. For higher risk systems, it is often appropriate for technical or risk executives to be involved in the approval of go/no-go decisions. The decision to deploy should not be made by AI design and development teams, whose objective judgement may be hindered by the incentive to deploy. Where might I go to learn more? Board of Governors of the Federal Reserve System. SR 11-7: Guidance on Model Risk Management. (April 4, 2011). Retrieved on July 6, 2022 from Federal Reserve Elisa Jillson. 2021. Aiming for truth, fairness, and equity in your company’s use of AI (April 19, 2021). Retrieved on July 7, 2022 from FTC Sarah Spiekermann and Till Winkler. 2020. Value-based Engineering for Ethics by Design. arXiv:2004.13676. Retrieved from arXiv:2004.13676 Sri Krishnamurthy. Quantifying Model Risk: Issues and approaches to measure and assess model risk when building quant models. QuantUniversity, Charlestown, MA. Retrieved on July 7, 2022 from citeseerx.ist.psu.edu</summary></entry><entry><title type="html">5.2 Likelihood Analysis</title><link href="http://localhost:4000/RMF/5-impact-assessment/2012/01/16/likelihood-analysis.html" rel="alternate" type="text/html" title="5.2 Likelihood Analysis" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/5-impact-assessment/2012/01/16/likelihood-analysis</id><content type="html" xml:base="http://localhost:4000/RMF/5-impact-assessment/2012/01/16/likelihood-analysis.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Has the likelihood of each harm been evaluated?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Define assessment scales for measuring impact. Scales may be qualitative, such as red-amber-green (RAG), or may entail simulations or econometric approaches. Document and apply scales uniformly to different AI systems within an organization’s purview.&lt;/p&gt;
+
+&lt;p&gt;Plan to apply impact assessments at a specific frequency at key stages in the AI lifecycle, connected to the harm a system can cause and how quickly a system changes.&lt;/p&gt;
+
+&lt;p&gt;Assess the benefits and potential negative impacts of the specific system in relation to false positive, false negatives, true positives and true negatives (e.g.: for binary classification systems), or for numeric over- and under-prediction. (e.g.: for continuous outcomes).&lt;/p&gt;
+
+&lt;p&gt;Review ratings for each impact listed in the assessment.&lt;/p&gt;
+
+&lt;p&gt;Define scales by which probability is assessed. Scales may be qualitative, such as red-amber-green (RAG), or may entail simulations or econometric approaches. Document and apply scales uniformly to different AI systems within an organization’s purview.&lt;/p&gt;
+
+&lt;p&gt;Apply the agreed upon scale to the system and assess the likelihood of harms using the scale. Document likelihood estimates.&lt;/p&gt;
+
+&lt;p&gt;Review likelihood estimates for each listed impact in the assessment.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI design, AI development, AI deployment, Impact assessment, Human factors, TEVV]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 5.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Which population(s) does the AI system impact?&lt;/li&gt;
+  &lt;li&gt;What assessments has the entity conducted on data security and privacy impacts associated with the AI system?&lt;/li&gt;
+  &lt;li&gt;Did you ensure that the AI system can be audited by independent third parties?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 5.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Datasheets for Datasets&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;“AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019&lt;/li&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;After identifying potential AI system impacts the likelihood of a given impact should be evaluated and risk triage considered. These probability estimates are then assessed and judged for go/no-go decision. If an organization deploys the system, the likelihood estimate can be used to assign appriopriate oversight resources in accordance with risk level.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). Retrieved from &lt;a href=&quot;https://op.europa.eu/en/publication-detail/-/publication/b4b5db47-94c0-11ea-aac4-01aa75ed71a1/language-en&quot;&gt;op.europa.eu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Artificial Intelligence Incident Database. 2022. Retrieved from &lt;a href=&quot;https://incidentdatabase.ai/?lang=en&quot;&gt;Incidentdatabase&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Has the likelihood of each harm been evaluated? How can my organization implement this sub-category? Define assessment scales for measuring impact. Scales may be qualitative, such as red-amber-green (RAG), or may entail simulations or econometric approaches. Document and apply scales uniformly to different AI systems within an organization’s purview. Plan to apply impact assessments at a specific frequency at key stages in the AI lifecycle, connected to the harm a system can cause and how quickly a system changes. Assess the benefits and potential negative impacts of the specific system in relation to false positive, false negatives, true positives and true negatives (e.g.: for binary classification systems), or for numeric over- and under-prediction. (e.g.: for continuous outcomes). Review ratings for each impact listed in the assessment. Define scales by which probability is assessed. Scales may be qualitative, such as red-amber-green (RAG), or may entail simulations or econometric approaches. Document and apply scales uniformly to different AI systems within an organization’s purview. Apply the agreed upon scale to the system and assess the likelihood of harms using the scale. Document likelihood estimates. Review likelihood estimates for each listed impact in the assessment. AI actors [Organizational management, AI design, AI development, AI deployment, Impact assessment, Human factors, TEVV] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 5.2 Which population(s) does the AI system impact? What assessments has the entity conducted on data security and privacy impacts associated with the AI system? Did you ensure that the AI system can be audited by independent third parties? AI Transparency Resources: MAP 5.2 Datasheets for Datasets GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019 Intel.gov: AI Ethics Framework for Intelligence Community - 2020 Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019 What is this sub-category about? After identifying potential AI system impacts the likelihood of a given impact should be evaluated and risk triage considered. These probability estimates are then assessed and judged for go/no-go decision. If an organization deploys the system, the likelihood estimate can be used to assign appriopriate oversight resources in accordance with risk level. Where might I go to learn more? Emilio Gómez-González and Emilia Gómez. 2020. Artificial intelligence in medicine and healthcare. Joint Research Centre (European Commission). Retrieved from op.europa.eu Artificial Intelligence Incident Database. 2022. Retrieved from Incidentdatabase</summary></entry><entry><title type="html">5.1 Identify Impacts</title><link href="http://localhost:4000/RMF/5-impact-assessment/2012/01/16/identify-impacts.html" rel="alternate" type="text/html" title="5.1 Identify Impacts" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/5-impact-assessment/2012/01/16/identify-impacts</id><content type="html" xml:base="http://localhost:4000/RMF/5-impact-assessment/2012/01/16/identify-impacts.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have the broader impacts of the system been assessed in relationship to potential users, organizations or society as a whole?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Standardize stakeholder engagement processes at the earliest stages of system formulation to identify potential impacts from the AI system on individuals, groups, communities, organizations, and society.&lt;/p&gt;
+
+&lt;p&gt;Employ methods such as value sensitive design (VSD) to identify baseline organizational and societal values for evaluating alignment/misalignment of system implementation and impact.&lt;/p&gt;
+
+&lt;p&gt;Identify transparent approaches to seek, capture, and incorporate input from system users and other key stakeholders to assist with monitoring impacts and emergent risks.&lt;/p&gt;
+
+&lt;p&gt;Incorporate quantitiative, qualitative, and mixed methods in the assessment and documentation of potential impacts for individuals, groups, communities, organizations, and society.&lt;/p&gt;
+
+&lt;p&gt;Identify a team (internal or external) that is independent of AI design and development functions to assess the impact and likelihood of potential harms in relation to the expected benefits of the system.&lt;/p&gt;
+
+&lt;p&gt;Define impact assessment processes that incorporate socio-technical elements and methods, and plan to normalize across organizational culture.&lt;/p&gt;
+
+&lt;p&gt;Review and refine impact assessments once completed.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI design, AI development, AI deployment, Human factors, Impact assessment]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 5.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If it relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated?&lt;/li&gt;
+  &lt;li&gt;If it relates to other ethically protected subjects, have appropriate obligations been met? (e.g., medical data might include information collected from animals)&lt;/li&gt;
+  &lt;li&gt;If it relates to people, could this dataset expose people to harm or legal action? (e.g., financial social or otherwise) What was done to mitigate or reduce the potential for harm?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 5.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Datasheets for Datasets&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;“AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019&lt;/li&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;As AI systems are socio-technical in nature, they are likely to have implications that extend beyond the stated purpose. These broader impacts can be classified as positive, neutral, or negative. Impacts can affect individuals, groups, communities, organizations, and society, as well as the environment, or national security. Assessing potential impacts in the mapping stage provides a baseline for system monitoring, enables adapting of tradeoffs between positive and adverse impacts, and detection of emergent risks. Impact assessments also enable risk management and mitigation, and provides an opportunity to capture new value which may arise from AI system use.&lt;/p&gt;
+
+&lt;p&gt;Different stakeholder groups may be aware of, or experience, benefits or harms that are unknown to internal system designers and can share their perspectives to inform an improved system design. Stakeholder feedback during system operation is also important for monitoring emergent risks that are newly introduced or amplified by AI systems, or may not be easily recognized or detected by internal technical teams.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Susanne Vernim, Harald Bauer, Erwin Rauch, et al. 2022. A value sensitive design approach for designing AI-based worker assistance systems in manufacturing. Procedia Comput. Sci. 200, C (2022), 505–516. &lt;a href=&quot;https://doi.org/10.1016/j.procs.2022.01.248&quot;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. arXiv:1901.10002. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/1901.10002&quot;&gt;arXiv:1901.10002&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from [arXiv:2011.13416()]https://arxiv.org/abs/2011.13416)&lt;/p&gt;
+
+&lt;p&gt;Konstantinia Charitoudi and Andrew Blyth. A Socio-Technical Approach to Cyber Risk Management and Impact Assessment. Journal of Information Security 4, 1 (2013), 33-41. &lt;a href=&quot;http://dx.doi.org/10.4236/jis.2013.41005&quot;&gt;DOI:&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Raji, I.D., Smart, A., White, R.N., Mitchell, M., Gebru, T., Hutchinson, B., Smith-Loud, J., Theron, D., &amp;amp; Barnes, P. (2020). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency.&lt;/p&gt;
+
+&lt;p&gt;Emanuel Moss, Elizabeth Anne Watkins, Ranjit Singh, Madeleine Clare Elish, &amp;amp; Jacob Metcalf. 2021. Assemlbing Accountability: Algorithmic Impact Assessment for the Public Interest.  Data &amp;amp; Society. Accessed 7/14/2022 at &lt;a href=&quot;https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. &lt;a href=&quot;https://www.adalovelaceinstitute.org/report/algorithmic-impact-assessment-case-study-healthcare/&quot;&gt;adalovelaceinstitute&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 2022. &lt;a href=&quot;https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf&quot;&gt;Microsoft-RAI-Impact-Assessment-Template&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. &lt;a href=&quot;https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf&quot;&gt;Microsoft-RAI-Impact-Assessment-Guide&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Have the broader impacts of the system been assessed in relationship to potential users, organizations or society as a whole? How can my organization implement this sub-category? Standardize stakeholder engagement processes at the earliest stages of system formulation to identify potential impacts from the AI system on individuals, groups, communities, organizations, and society. Employ methods such as value sensitive design (VSD) to identify baseline organizational and societal values for evaluating alignment/misalignment of system implementation and impact. Identify transparent approaches to seek, capture, and incorporate input from system users and other key stakeholders to assist with monitoring impacts and emergent risks. Incorporate quantitiative, qualitative, and mixed methods in the assessment and documentation of potential impacts for individuals, groups, communities, organizations, and society. Identify a team (internal or external) that is independent of AI design and development functions to assess the impact and likelihood of potential harms in relation to the expected benefits of the system. Define impact assessment processes that incorporate socio-technical elements and methods, and plan to normalize across organizational culture. Review and refine impact assessments once completed. AI actors [Organizational management, AI design, AI development, AI deployment, Human factors, Impact assessment] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 5.1 If it relates to people, does it unfairly advantage or disadvantage a particular social group? In what ways? How was this mitigated? If it relates to other ethically protected subjects, have appropriate obligations been met? (e.g., medical data might include information collected from animals) If it relates to people, could this dataset expose people to harm or legal action? (e.g., financial social or otherwise) What was done to mitigate or reduce the potential for harm? AI Transparency Resources: MAP 5.1 Datasheets for Datasets GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities “AI policies and initiatives,” in Artificial Intelligence in Society, OECD, 2019 Intel.gov: AI Ethics Framework for Intelligence Community - 2020 Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019 What is this sub-category about? As AI systems are socio-technical in nature, they are likely to have implications that extend beyond the stated purpose. These broader impacts can be classified as positive, neutral, or negative. Impacts can affect individuals, groups, communities, organizations, and society, as well as the environment, or national security. Assessing potential impacts in the mapping stage provides a baseline for system monitoring, enables adapting of tradeoffs between positive and adverse impacts, and detection of emergent risks. Impact assessments also enable risk management and mitigation, and provides an opportunity to capture new value which may arise from AI system use. Different stakeholder groups may be aware of, or experience, benefits or harms that are unknown to internal system designers and can share their perspectives to inform an improved system design. Stakeholder feedback during system operation is also important for monitoring emergent risks that are newly introduced or amplified by AI systems, or may not be easily recognized or detected by internal technical teams. Where might I go to learn more? Susanne Vernim, Harald Bauer, Erwin Rauch, et al. 2022. A value sensitive design approach for designing AI-based worker assistance systems in manufacturing. Procedia Comput. Sci. 200, C (2022), 505–516. DOI Harini Suresh and John V. Guttag. 2020. A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle. arXiv:1901.10002. Retrieved from arXiv:1901.10002 Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from [arXiv:2011.13416()]https://arxiv.org/abs/2011.13416) Konstantinia Charitoudi and Andrew Blyth. A Socio-Technical Approach to Cyber Risk Management and Impact Assessment. Journal of Information Security 4, 1 (2013), 33-41. DOI: Raji, I.D., Smart, A., White, R.N., Mitchell, M., Gebru, T., Hutchinson, B., Smith-Loud, J., Theron, D., &amp;amp; Barnes, P. (2020). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. Emanuel Moss, Elizabeth Anne Watkins, Ranjit Singh, Madeleine Clare Elish, &amp;amp; Jacob Metcalf. 2021. Assemlbing Accountability: Algorithmic Impact Assessment for the Public Interest. Data &amp;amp; Society. Accessed 7/14/2022 at Link Ada Lovelace Institute. 2022. Algorithmic Impact Assessment: A Case Study in Healthcare. Accessed July 14, 2022. adalovelaceinstitute Microsoft. Responsible AI Impact Assessment Template. 2022. Accessed July 14, 2022. Microsoft-RAI-Impact-Assessment-Template Microsoft. Responsible AI Impact Assessment Guide. 2022. Accessed July 14, 2022. Microsoft-RAI-Impact-Assessment-Guide</summary></entry><entry><title type="html">4.2 Risk Controls for Third Party Risks</title><link href="http://localhost:4000/RMF/4-third-party/2012/01/16/risk-controls-for-third-party-risks.html" rel="alternate" type="text/html" title="4.2 Risk Controls for Third Party Risks" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/4-third-party/2012/01/16/risk-controls-for-third-party-risks</id><content type="html" xml:base="http://localhost:4000/RMF/4-third-party/2012/01/16/risk-controls-for-third-party-risks.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have internal risk controls for third-party entities been documented and applied?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Supply inventory and approval methods, such as model documentation templates and software safelists.&lt;/p&gt;
+
+&lt;p&gt;Conduct a risk review of third-party entities required for the AI system (including for data and models) related to bias, data privacy harms, and security vulnerabilities.&lt;/p&gt;
+
+&lt;p&gt;Apply standard risk controls, such as procurement, security, and data privacy controls, to all acquired third-party technologies.&lt;/p&gt;
+
+&lt;p&gt;Prepare for a review of AI system consultants and ensure that human resources (or other appropriate functions) are aware of their involvement.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI development, third-party entities, Human factors]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 4.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Did you ensure that the AI system can be audited by independent third parties?&lt;/li&gt;
+  &lt;li&gt;To what extent do these policies foster public trust and confidence in the use of the AI system?&lt;/li&gt;
+  &lt;li&gt;Did you establish mechanisms that facilitate the AI system’s auditability (e.g. traceability of the development process, the sourcing of training data and the logging of the AI system’s processes, outcomes, positive and negative impact)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 4.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;WEF Model AI Governance Framework Assessment 2020&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;AI developers often access open-source, or otherwise freely available, third-party technologies. These technologies are known to have privacy, bias and security risks. Simply because a model, software, or data artifact is used commonly by AI system developers does not mean that it is free of risk.&lt;/p&gt;
+
+&lt;p&gt;Some institutions may not apply standard procurement, human resource, or other risk controls, to third-party AI entities in the same manner as for more standard technologies. In spite of - and due to - these difficulties, the importance of maintaining internal risk controls for third-party entities cannot be overstated.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Office of the Comptroller of the Currency. 2021. Comptroller’s Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from &lt;a href=&quot;https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html&quot;&gt;OCC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021, available at &lt;a href=&quot;https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-74a.pdf&quot;&gt;URL&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Have internal risk controls for third-party entities been documented and applied? How can my organization implement this sub-category? Supply inventory and approval methods, such as model documentation templates and software safelists. Conduct a risk review of third-party entities required for the AI system (including for data and models) related to bias, data privacy harms, and security vulnerabilities. Apply standard risk controls, such as procurement, security, and data privacy controls, to all acquired third-party technologies. Prepare for a review of AI system consultants and ensure that human resources (or other appropriate functions) are aware of their involvement. AI actors [Organizational management, AI development, third-party entities, Human factors] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 4.2 Did you ensure that the AI system can be audited by independent third parties? To what extent do these policies foster public trust and confidence in the use of the AI system? Did you establish mechanisms that facilitate the AI system’s auditability (e.g. traceability of the development process, the sourcing of training data and the logging of the AI system’s processes, outcomes, positive and negative impact)? AI Transparency Resources: MAP 4.2 GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities Intel.gov: AI Ethics Framework for Intelligence Community - 2020 WEF Model AI Governance Framework Assessment 2020 Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI - 2019 What is this sub-category about? AI developers often access open-source, or otherwise freely available, third-party technologies. These technologies are known to have privacy, bias and security risks. Simply because a model, software, or data artifact is used commonly by AI system developers does not mean that it is free of risk. Some institutions may not apply standard procurement, human resource, or other risk controls, to third-party AI entities in the same manner as for more standard technologies. In spite of - and due to - these difficulties, the importance of maintaining internal risk controls for third-party entities cannot be overstated. Where might I go to learn more? Office of the Comptroller of the Currency. 2021. Comptroller’s Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from OCC “Proposed Interagency Guidance on Third-Party Relationships: Risk Management,” 2021, available at URL</summary></entry><entry><title type="html">4.1 Document Third Party Risks</title><link href="http://localhost:4000/RMF/4-third-party/2012/01/16/document-third-party-risks.html" rel="alternate" type="text/html" title="4.1 Document Third Party Risks" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/4-third-party/2012/01/16/document-third-party-risks</id><content type="html" xml:base="http://localhost:4000/RMF/4-third-party/2012/01/16/document-third-party-risks.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have risks in the third-party entities been mapped, triaged and documented?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Review audit reports, testing results, product roadmaps, warranites, terms of service, end-user license agreements, contracts and other documentation related to third-party entities that can assist in value assessment and risk management.&lt;/p&gt;
+
+&lt;p&gt;Review third-party software release schedules and software change management plans (hotfixes, patches, updates, forward- and backward- compatibility guarantees) for irregularities.&lt;/p&gt;
+
+&lt;p&gt;Review potential technology and human redunancies to address third-party entity failures.&lt;/p&gt;
+
+&lt;p&gt;Inventory third-party entities (hardware, open-source software, foundation models, open source data, proprietary software, proprietary data, etc.) necessary for implementation and maintenance of the system.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI development, third-party entities, AI deployment, Human factors]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 4.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system?&lt;/li&gt;
+  &lt;li&gt;If your organization obtained datasets from a third party, did your organization assess and manage the risks of using such datasets?&lt;/li&gt;
+  &lt;li&gt;How will the results independently verified?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 4.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;WEF Model AI Governance Framework Assessment 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Risks from third-party technologies and personnel are often more difficult to map, as AI technologies are particularly complex or opaque and third-party organization risk tolerances or values may not align to those of the consuming institution. In spite of - and due to - these difficulties, the importance of managing and transparently documenting the risk of third-party technologies and personnel cannot be overstated. Commercial, open source and other freely-available technologies should be screened for third-party risks.&lt;/p&gt;
+
+&lt;p&gt;For example, foundation models are popular with AI developers due to their ease of use for inference tasks. These models tend to rely on large uncurated web datasets, which often have undisclosed origins - raising concerns about privacy, bias, and unintended effects. Other risks may arise due to increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity. Bias incidents have been reported in relation to use of these models.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Foundation models&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘21). Association for Computing Machinery, New York, NY, USA, 610–623. &lt;a href=&quot;https://doi.org/10.1145/3442188.3445922&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Julia Kreutzer, Isaac Caswell, Lisa Wang, et al. 2022. Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets. Transactions of the Association for Computational Linguistics 10 (2022), 50–72.  &lt;a href=&quot;https://doi.org/10.1162/tacl_a_00447&quot;&gt;DOI:&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Laura Weidinger, Jonathan Uesato, Maribeth Rauh, et al. 2022. Taxonomy of Risks posed by Language Models. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘22). Association for Computing Machinery, New York, NY, USA, 214–229. &lt;a href=&quot;https://doi.org/10.1145/3531146.3533088&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Office of the Comptroller of the Currency. 2021. Comptroller’s Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from &lt;a href=&quot;https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html&quot;&gt;OCC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, et al. 2021. On the Opportunities and Risks of Foundation Models. arXiv:2108.07258. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/2108.07258&quot;&gt;arXiv:2108.07258&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Have risks in the third-party entities been mapped, triaged and documented? How can my organization implement this sub-category? Review audit reports, testing results, product roadmaps, warranites, terms of service, end-user license agreements, contracts and other documentation related to third-party entities that can assist in value assessment and risk management. Review third-party software release schedules and software change management plans (hotfixes, patches, updates, forward- and backward- compatibility guarantees) for irregularities. Review potential technology and human redunancies to address third-party entity failures. Inventory third-party entities (hardware, open-source software, foundation models, open source data, proprietary software, proprietary data, etc.) necessary for implementation and maintenance of the system. AI actors [Organizational management, AI development, third-party entities, AI deployment, Human factors] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 4.1 Did you establish a process for third parties (e.g. suppliers, end-users, subjects, distributors/vendors or workers) to report potential vulnerabilities, risks or biases in the AI system? If your organization obtained datasets from a third party, did your organization assess and manage the risks of using such datasets? How will the results independently verified? AI Transparency Resources: MAP 4.1 GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities Intel.gov: AI Ethics Framework for Intelligence Community - 2020 WEF Model AI Governance Framework Assessment 2020 What is this sub-category about? Risks from third-party technologies and personnel are often more difficult to map, as AI technologies are particularly complex or opaque and third-party organization risk tolerances or values may not align to those of the consuming institution. In spite of - and due to - these difficulties, the importance of managing and transparently documenting the risk of third-party technologies and personnel cannot be overstated. Commercial, open source and other freely-available technologies should be screened for third-party risks. For example, foundation models are popular with AI developers due to their ease of use for inference tasks. These models tend to rely on large uncurated web datasets, which often have undisclosed origins - raising concerns about privacy, bias, and unintended effects. Other risks may arise due to increased levels of statistical uncertainty, difficulty with reproducibility, and issues with scientific validity. Bias incidents have been reported in relation to use of these models. Where might I go to learn more? Foundation models Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘21). Association for Computing Machinery, New York, NY, USA, 610–623. Link Julia Kreutzer, Isaac Caswell, Lisa Wang, et al. 2022. Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets. Transactions of the Association for Computational Linguistics 10 (2022), 50–72. DOI: Laura Weidinger, Jonathan Uesato, Maribeth Rauh, et al. 2022. Taxonomy of Risks posed by Language Models. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘22). Association for Computing Machinery, New York, NY, USA, 214–229. Link Office of the Comptroller of the Currency. 2021. Comptroller’s Handbook: Model Risk Management, Version 1.0, August 2021. Retrieved on July 7, 2022 from OCC Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, et al. 2021. On the Opportunities and Risks of Foundation Models. arXiv:2108.07258. Retrieved from arXiv:2108.07258</summary></entry><entry><title type="html">3.3 Application Scope</title><link href="http://localhost:4000/RMF/3-benefits/2012/01/16/application-scope.html" rel="alternate" type="text/html" title="3.3 Application Scope" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/3-benefits/2012/01/16/application-scope</id><content type="html" xml:base="http://localhost:4000/RMF/3-benefits/2012/01/16/application-scope.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Has the scope of the system been narrowed to reasonably ensure it will only be used as intended and that risks can be managed properly?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Decide on narrow contexts in which a system will be deployed, such as limiting the time the system is deployed in between retrainings, targeting the geographical regions in which the system will operate, or defining clear user or stakeholder outcomes.&lt;/p&gt;
+
+&lt;p&gt;Define metrics by which internal and external validity, and bias in system outcomes will be measured, and establish expected thresholds or tolerances for those metrics.&lt;/p&gt;
+
+&lt;p&gt;Involve legal or product policy teams in developing and enforcing guidelines or policies for managing risks and misuse due to downstream deployment by third parties.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI design, AI development, AI deployment, TEVV]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 3.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To what extent has the entity clearly defined technical specifications and requirements for the AI system?&lt;/li&gt;
+  &lt;li&gt;How do the technical specifications and requirements align with the AI system’s goals and objectives?&lt;/li&gt;
+  &lt;li&gt;How might you respond to an intelligence consumer asking “How do you know this?”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 3.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Once an AI system has been ideated, and its context and purpose mapped, its scope of application should be narrowed. Systems that function in a narrow scope tend to enable better mapping, measurement and management of risks, in both the learning or decision-making task, and in the system context. For example, open-ended chatbot systems that interact with the public on the internet have a large number of risks that may be difficult to map, measure and manage due to the variability from both the decision-making task and the operational context. A narrow application scope also helps ease oversight functions and related resources within an organization.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Mark J. Van der Laan and Sherri Rose (2018). Targeted Learning in Data Science. Cham: Springer International Publishing, 2018.&lt;/p&gt;
+
+&lt;p&gt;Alice Zheng. 2015. Evaluating Machine Learning Models (2015). O’Reilly. Retrieved from https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/.&lt;/p&gt;
+
+&lt;p&gt;Brenda Leong and Patrick Hall (2021). 5 things lawyers should know about artificial intelligence. ABA Journal. Retrieved from https://www.abajournal.com/columns/article/5-things-lawyers-should-know-about-artificial-intelligence.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question</summary></entry><entry><title type="html">3.2 System Cost</title><link href="http://localhost:4000/RMF/3-benefits/2012/01/16/system-cost.html" rel="alternate" type="text/html" title="3.2 System Cost" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/3-benefits/2012/01/16/system-cost</id><content type="html" xml:base="http://localhost:4000/RMF/3-benefits/2012/01/16/system-cost.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have the potential negative impacts been articulated and assessed?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Perform a context analysis to list and assess specific negative impacts arising from a lack of trustworthy characteristics, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Negative impacts are mapped to confusion matrix elements, e.g., true positives and true negative decisions leading to feedback loops and a lack of reliability, or false positives or false negatives leading to safety risks.&lt;/li&gt;
+  &lt;li&gt;Negative impacts are mapped to numeric over- and under-prediction, e.g., a lack of robustness leads to frequent numeric under-prediction and undervaluing of assets.&lt;/li&gt;
+  &lt;li&gt;Denigration, erasure, exnomination, misrecognition, stereotyping, underrepresenation and other content harms leading to biased or unfair outcomes are mapped.&lt;/li&gt;
+  &lt;li&gt;If negative impacts are not direct or obvious, teams should engage in structured discussions with external stakeholders to document responses to:
+    &lt;ul&gt;
+      &lt;li&gt;Who could be harmed?&lt;/li&gt;
+      &lt;li&gt;What could be harmed?&lt;/li&gt;
+      &lt;li&gt;When could harm arise?&lt;/li&gt;
+      &lt;li&gt;How could harm arise?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conduct context analysis and elicit and document stakeholder requirements using resources such as software engineering and product management guidance, user stories, user interaction/user experience (UI/UX) research; and document relevant technical and socio-technical trustworthy characteristics (such as ML-specific security vulnerabilities or recourse mechanisms for end-users).&lt;/p&gt;
+
+&lt;p&gt;Provide robust processes and resources to AI designers and developers for enumeration of negative impacts in conjuction with system requirements, or for review or audit of harms mitigation once a system is deployed.&lt;/p&gt;
+
+&lt;p&gt;Implement processes to evaluate qualitative and quantitative costs of internal and external failures of AI systems, with linkages to actions for prevention, detection, and/or correction of potential risks and related impacts. Evaluate failure costs to inform go/no-go decisions at all stages of the AI system lifecycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI design, AI development, AI deployment, Human factors, Domain experts]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 3.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To what extent does the system/entity consistently measure progress towards stated goals and objectives?&lt;/li&gt;
+  &lt;li&gt;To what extent can users or parties affected by the outputs of the AI system test the AI system and provide feedback?&lt;/li&gt;
+  &lt;li&gt;Have you documented and explained that machine errors may differ from human errors?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 3.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Anticipating the kinds of negative impacts AI systems may cause is a difficult task. System designers can work with other stakeholders to identify such impacts. These may or may not be linked to poor system performance, or may range from minor annoyance due to online content to serious injury, financial losses, or regulatory enforcement actions. Structured questions, discussions or assessments may aide system designers and other stakeholders in brainstorming efforts. Shallow assessments may result in erroneous determinations of no risk or no harm for more complex or higher risk systems. Impact assessments can help inform the determined impact of a system, and subsequently, its overall risk assessment.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;Abagayle Lee Blank. 2019. Computer vision machine learning and future-oriented ethics. Honors Project. Seattle Pacific University (SPU), Seattle, WA. Available at https://digitalcommons.spu.edu/cgi/viewcontent.cgi?article=1100&amp;amp;context=honorsprojects&lt;/p&gt;
+
+&lt;p&gt;Margarita Boyarskaya, Alexandra Olteanu, and Kate Crawford. 2020. Overcoming Failures of Imagination in AI Infused System Development and Deployment. arXiv:2011.13416. Retrieved from https://arxiv.org/abs/2011.13416&lt;/p&gt;
+
+&lt;p&gt;Jeff Patton. 2014. User Story Mapping. O’Reilly, Sebastopol, CA. See https://www.jpattonassociates.com/story-mapping/&lt;/p&gt;
+
+&lt;p&gt;Margarita Boenig-Liptsin, Anissa Tanweer &amp;amp; Ari Edmundson (2022) Data Science Ethos Lifecycle: Interplay of ethical thinking and data science practice, Journal of Statistics and Data Science Education, DOI: 10.1080/26939169.2022.2089411&lt;/p&gt;
+
+&lt;p&gt;J. Cohen, D. S. Katz, M. Barker, N. Chue Hong, R. Haines and C. Jay, ““The Four Pillars of Research Software Engineering,”” in IEEE Software, vol. 38, no. 1, pp. 97-105, Jan.-Feb. 2021, doi: 10.1109/MS.2020.2973362.&lt;/p&gt;
+
+&lt;p&gt;National Academies of Sciences, Engineering, and Medicine 2022. ““Introduction”” in Fostering Responsible Computing Research: Foundations and Practices. Washington, DC: The National Academies Press. https://doi.org/10.17226/26507.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question</summary></entry><entry><title type="html">3.1 System Benefits</title><link href="http://localhost:4000/RMF/3-benefits/2012/01/16/system-benefits.html" rel="alternate" type="text/html" title="3.1 System Benefits" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/3-benefits/2012/01/16/system-benefits</id><content type="html" xml:base="http://localhost:4000/RMF/3-benefits/2012/01/16/system-benefits.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have the benefits of the system been articulated and assessed?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Incorporate stakeholder feedback to document perceived system benefits above the status quo and align with other stakeholder needs; consider inclusion of a more formal cost-benefit analysis in subsequent measurement stages of risk management.&lt;/p&gt;
+
+&lt;p&gt;Perform context analysis related to timeframe, safety concerns, geographic area, physical environment, ecosystems, social environment, and cultural norms within which the expected benefits or negative impacts exist.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI design, AI development, Human factors, TEVV]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 3.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Did you communicate the benefits of the AI system to users?&lt;/li&gt;
+  &lt;li&gt;Did you provide appropriate training material and disclaimers to users on how to adequately use the AI system?&lt;/li&gt;
+  &lt;li&gt;Did your organization implement a risk management system to address risks involved in deploying the identified AI solution (e.g. personnel risk or changes to commercial objectives)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 3.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Intel.gov: AI Ethics Framework for Intelligence Community  - 2020&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;Assessment List for Trustworthy AI (ALTAI) - The High-Level Expert Group on AI – 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;AI systems have implicit and explicit costs, and inherent risks. Systems should present a benefit to counteract these costs and risks. To identify system benefits, organizations can define and document system purpose and utility, along with foreseeable costs, risks, and negative impacts. This information should include credible justification for anticipated benefits beyond the status quo.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Roel Dobbe, Thomas Krendl Gilbert, and Yonatan Mintz. 2021. Hard choices in artificial intelligence. Artificial Intelligence 300 (14 July 2021), 103555, ISSN 0004-3702. DOI: https://doi.org/10.1016/j.artint.2021.103555&lt;/p&gt;
+
+&lt;p&gt;Samir Passi and Solon Barocas. 2019. Problem Formulation and Fairness. In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* ‘19). Association for Computing Machinery, New York, NY, USA, 39–48. https://doi.org/10.1145/3287560.3287567&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question</summary></entry><entry><title type="html">2.3 Data Collection and Selection</title><link href="http://localhost:4000/RMF/2-operation/2012/01/16/data-collection-and-selection.html" rel="alternate" type="text/html" title="2.3 Data Collection and Selection" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/2-operation/2012/01/16/data-collection-and-selection</id><content type="html" xml:base="http://localhost:4000/RMF/2-operation/2012/01/16/data-collection-and-selection.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Have the risks related to data preparation (e.g., collection, selection or labelling) been defined related to training, testing and deployment of the system?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Map adherence to policies that address validity, bias, privacy and security in the use of data for AI systems; ensure that oversight and audit functions, and documentation processes exist.&lt;/p&gt;
+
+&lt;p&gt;Work with subject-matter experts to incorporate awareness of how human behavior is reflected in datasets, organizational factors/dynamics, and societal dynamics; identify techniques to mitigate the sources of bias (systemic, computational, human-cognitive) in computational models and systems, and the assumptions and decisions in their development.&lt;/p&gt;
+
+&lt;p&gt;Develop context mapping practices, utilize documentation practices, and document assumptions and constructs used in the selection, curation, preparation, and analysis of data.&lt;/p&gt;
+
+&lt;p&gt;Plan for data use in AI systems to ensure it is collected and selected in alignment with experimental design practices and that data used in AI systems is reasonably linked to the documented purpose of the AI system (for example, by causal discovery methods).&lt;/p&gt;
+
+&lt;p&gt;Document assumptions and ensure validation of concepts used in all stages of data selection or collection, cleaning, and analysis. Document known limitations and efforts to mitigate risk related to training data collection, selection, and data labeling, cleaning and analysis (e.g. treatment of missing, spurious, or outlier data; biased estimators).&lt;/p&gt;
+
+&lt;p&gt;Map and document assumptions and decisions during problem formulation, when identifying constructs and proxy targets, and in the development of indices, especially when seeking to measure concepts that are inherently unobservable (when using constructs such as “hireability”, “criminality”, “lendability”).&lt;/p&gt;
+
+&lt;p&gt;Map mechanisms for following rigorous experimental design, hypothesis generation, and hypothesis testing.&lt;/p&gt;
+
+&lt;p&gt;Plan to demonstrate that the deployed product is measuring the concept it intends to measure (aka construct validity) and is generalizable beyond the conditions under which the technology was developed (aka external validity). Adhere to standard statistical principles for justifying the scope, and generalizing outcomes of AI systems. Document the extent to which the proposed technology does not meet these or other validation criteria.&lt;/p&gt;
+
+&lt;p&gt;Plan for alignment of system requirements and implementations with data privacy and security norms and policies.&lt;/p&gt;
+
+&lt;p&gt;Consider and document any potential negative impacts due to supply chain issues as related to organizational values.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[Organizational management, AI design, AI development, AI deployment, Human factors, Domain experts]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 2.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Are there any known errors, sources of noise, or redundancies in the data?&lt;/li&gt;
+  &lt;li&gt;Over what time-frame was the data collected? Does the collection time-frame match the creation time-frame&lt;/li&gt;
+  &lt;li&gt;What is the variable selection and evaluation process?&lt;/li&gt;
+  &lt;li&gt;How was the data collected? Who was involved in the data collection process? If the dataset relates to people (e.g., their attributes) or was generated by people, were they informed about the data collection? (e.g., datasets that collect writing, photos, interactions, transactions, etc.)&lt;/li&gt;
+  &lt;li&gt;As time passes and conditions change, is the training data still representative of the operational environment?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 2.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Datasheets for Datasets&lt;/li&gt;
+  &lt;li&gt;WEF Model AI Governance Framework Assessment 2020&lt;/li&gt;
+  &lt;li&gt;Companion to the Model AI Governance Framework- 2020&lt;/li&gt;
+  &lt;li&gt;GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities&lt;/li&gt;
+  &lt;li&gt;ATARC Model Transparency Assessment (WD) – 2020&lt;/li&gt;
+  &lt;li&gt;Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;AI design and development practices often rely on large scale datasets to drive ML processes. This reliance may lead researchers, developers, and practitioners to select data based on availability and accessibility and adapt their questions accordingly - which can lead to downstream risks. Additionally, selected datasets and/or attributes within datasets may not provide good proxies, measures, or predictors for operationalizing the phenomenon that the AI system intends to support or inform. These factors heighten the importance of experimental design best practices and consideration of data suitability and data privacy concerns. Constructs and concepts that underlie data selection and use should be empirically validated.&lt;/p&gt;
+
+&lt;p&gt;A clear understanding of data content (e.g., data dictionaries, datasheets), data lineage, provenance, representativeness, legal basis for use, and security is important to risk management efforts. Data may be wrong, of low quality, or otherwise inaccurate. Data used in AI development processes may not be related to or representative of populations or the phenomena that are being modeled. The data that is collected can differ significantly from what occurs in the real world. Disproportionaly impacted groups may include black, indigenous, and people of color, women, LGBTQ+ individuals, people with disabilities, and people with limited access to computer network technologies. These groups tend to be historically excluded in the large scale datasets used in AI systems. Other issues arise due to the common ML practice of reusing datasets. Under such practices, datasets may become disconnected from the social contexts and time periods of their creation. Moreover, datasets may be collected or used in contravention of data privacy norms, policies or laws. Datasets may also present security concerns, such as being poisoned by bad actors in attempt to alter systems outcomes.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenges with dataset selection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Alexandra Olteanu, Carlos Castillo, Fernando Diaz, and Emre Kiciman. 2019. Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. Front. Big Data 2, 13 (11 July 2019). DOI: &lt;a href=&quot;https://doi.org/10.3389/fdata.2019.00013&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/2012.05345&quot;&gt;arXiv:2012.05345&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Catherine D’Ignazio and Lauren F. Klein. 2020. Data Feminism. The MIT Press, Cambridge, MA. See &lt;a href=&quot;https://data-feminism.mitpress.mit.edu/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Miceli, M., &amp;amp; Posada, J. (2022). The Data-Production Dispositif. ArXiv, abs/2205.11963.&lt;/p&gt;
+
+&lt;p&gt;Barbara Plank. 2016. What to do about non-standard (or non-canonical) language in NLP. arXiv:1608.07836. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/1608.07836&quot;&gt;arXiv:1608.07836&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dataset and test, evaluation, validation and verification (TEVV) processes in AI system development&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;National Institute of Standards and Technology (NIST), Reva Schwartz, Apostol Vassilev, et al. 2022. NIST Special Publication 1270 Towards a Standard for Identifying and Managing Bias in Artificial Intelligence. DOI: &lt;a href=&quot;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Inioluwa Deborah Raji, Emily M. Bender, Amandalynne Paullada, et al. 2021. AI and the Everything in the Whole Wide World Benchmark. arXiv:2111.15366. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/2111.15366&quot;&gt;arXiv:2111.15366&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Statistical balance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 2019. Dissecting racial bias in an algorithm used to manage the health of populations. Science 366, 6464 (25 Oct. 2019), 447-453. DOI: &lt;a href=&quot;https://doi.org/10.1126/science.aax2342&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/2012.05345&quot;&gt;arXiv:2012.05345&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Solon Barocas, Anhong Guo, Ece Kamar, et al. 2021. Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs. Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. Association for Computing Machinery, New York, NY, USA, 368–378. &lt;a href=&quot;https://doi.org/10.1145/3461702.3462610&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Measurement and evaluation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘21). Association for Computing Machinery, New York, NY, USA, 375–385. &lt;a href=&quot;https://doi.org/10.1145/3442188.3445901&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ben Hutchinson, Negar Rostamzadeh, Christina Greer, et al. 2022. Evaluation Gaps in Machine Learning Practice. arXiv:2205.05256. Retrieved from &lt;a href=&quot;https://arxiv.org/abs/2205.05256&quot;&gt;arXiv:2205.05256&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Existing frameworks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. URL: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST .CSWP, 4162018.&lt;/p&gt;
+
+&lt;p&gt;Boeckl, K. R., &amp;amp; Lefkovitz, N. B. (2020). NIST privacy framework: A tool for improving privacy through enterprise risk management, version 1.0. &lt;a href=&quot;https://www.nist.gov/privacy-framework/privacy-framework&quot;&gt;URL&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Have the risks related to data preparation (e.g., collection, selection or labelling) been defined related to training, testing and deployment of the system? How can my organization implement this sub-category? Map adherence to policies that address validity, bias, privacy and security in the use of data for AI systems; ensure that oversight and audit functions, and documentation processes exist. Work with subject-matter experts to incorporate awareness of how human behavior is reflected in datasets, organizational factors/dynamics, and societal dynamics; identify techniques to mitigate the sources of bias (systemic, computational, human-cognitive) in computational models and systems, and the assumptions and decisions in their development. Develop context mapping practices, utilize documentation practices, and document assumptions and constructs used in the selection, curation, preparation, and analysis of data. Plan for data use in AI systems to ensure it is collected and selected in alignment with experimental design practices and that data used in AI systems is reasonably linked to the documented purpose of the AI system (for example, by causal discovery methods). Document assumptions and ensure validation of concepts used in all stages of data selection or collection, cleaning, and analysis. Document known limitations and efforts to mitigate risk related to training data collection, selection, and data labeling, cleaning and analysis (e.g. treatment of missing, spurious, or outlier data; biased estimators). Map and document assumptions and decisions during problem formulation, when identifying constructs and proxy targets, and in the development of indices, especially when seeking to measure concepts that are inherently unobservable (when using constructs such as “hireability”, “criminality”, “lendability”). Map mechanisms for following rigorous experimental design, hypothesis generation, and hypothesis testing. Plan to demonstrate that the deployed product is measuring the concept it intends to measure (aka construct validity) and is generalizable beyond the conditions under which the technology was developed (aka external validity). Adhere to standard statistical principles for justifying the scope, and generalizing outcomes of AI systems. Document the extent to which the proposed technology does not meet these or other validation criteria. Plan for alignment of system requirements and implementations with data privacy and security norms and policies. Consider and document any potential negative impacts due to supply chain issues as related to organizational values. AI actors [Organizational management, AI design, AI development, AI deployment, Human factors, Domain experts] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 2.3 Are there any known errors, sources of noise, or redundancies in the data? Over what time-frame was the data collected? Does the collection time-frame match the creation time-frame What is the variable selection and evaluation process? How was the data collected? Who was involved in the data collection process? If the dataset relates to people (e.g., their attributes) or was generated by people, were they informed about the data collection? (e.g., datasets that collect writing, photos, interactions, transactions, etc.) As time passes and conditions change, is the training data still representative of the operational environment? AI Transparency Resources: MAP 2.3 Datasheets for Datasets WEF Model AI Governance Framework Assessment 2020 Companion to the Model AI Governance Framework- 2020 GAO-21-519SP: AI Accountability Framework for Federal Agencies &amp;amp; Other Entities ATARC Model Transparency Assessment (WD) – 2020 Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020 What is this sub-category about? AI design and development practices often rely on large scale datasets to drive ML processes. This reliance may lead researchers, developers, and practitioners to select data based on availability and accessibility and adapt their questions accordingly - which can lead to downstream risks. Additionally, selected datasets and/or attributes within datasets may not provide good proxies, measures, or predictors for operationalizing the phenomenon that the AI system intends to support or inform. These factors heighten the importance of experimental design best practices and consideration of data suitability and data privacy concerns. Constructs and concepts that underlie data selection and use should be empirically validated. A clear understanding of data content (e.g., data dictionaries, datasheets), data lineage, provenance, representativeness, legal basis for use, and security is important to risk management efforts. Data may be wrong, of low quality, or otherwise inaccurate. Data used in AI development processes may not be related to or representative of populations or the phenomena that are being modeled. The data that is collected can differ significantly from what occurs in the real world. Disproportionaly impacted groups may include black, indigenous, and people of color, women, LGBTQ+ individuals, people with disabilities, and people with limited access to computer network technologies. These groups tend to be historically excluded in the large scale datasets used in AI systems. Other issues arise due to the common ML practice of reusing datasets. Under such practices, datasets may become disconnected from the social contexts and time periods of their creation. Moreover, datasets may be collected or used in contravention of data privacy norms, policies or laws. Datasets may also present security concerns, such as being poisoned by bad actors in attempt to alter systems outcomes. Where might I go to learn more? Challenges with dataset selection Alexandra Olteanu, Carlos Castillo, Fernando Diaz, and Emre Kiciman. 2019. Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. Front. Big Data 2, 13 (11 July 2019). DOI: Link Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from arXiv:2012.05345 Catherine D’Ignazio and Lauren F. Klein. 2020. Data Feminism. The MIT Press, Cambridge, MA. See Link Miceli, M., &amp;amp; Posada, J. (2022). The Data-Production Dispositif. ArXiv, abs/2205.11963. Barbara Plank. 2016. What to do about non-standard (or non-canonical) language in NLP. arXiv:1608.07836. Retrieved from arXiv:1608.07836 Dataset and test, evaluation, validation and verification (TEVV) processes in AI system development National Institute of Standards and Technology (NIST), Reva Schwartz, Apostol Vassilev, et al. 2022. NIST Special Publication 1270 Towards a Standard for Identifying and Managing Bias in Artificial Intelligence. DOI: Link Inioluwa Deborah Raji, Emily M. Bender, Amandalynne Paullada, et al. 2021. AI and the Everything in the Whole Wide World Benchmark. arXiv:2111.15366. Retrieved from arXiv:2111.15366 Statistical balance Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 2019. Dissecting racial bias in an algorithm used to manage the health of populations. Science 366, 6464 (25 Oct. 2019), 447-453. DOI: Link Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, et al. 2020. Data and its (dis)contents: A survey of dataset development and use in machine learning research. arXiv:2012.05345. Retrieved from arXiv:2012.05345 Solon Barocas, Anhong Guo, Ece Kamar, et al. 2021. Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs. Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. Association for Computing Machinery, New York, NY, USA, 368–378. Link Measurement and evaluation Abigail Z. Jacobs and Hanna Wallach. 2021. Measurement and Fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘21). Association for Computing Machinery, New York, NY, USA, 375–385. Link Ben Hutchinson, Negar Rostamzadeh, Christina Greer, et al. 2022. Evaluation Gaps in Machine Learning Practice. arXiv:2205.05256. Retrieved from arXiv:2205.05256 Existing frameworks National Institute of Standards and Technology. (2018). Framework for improving critical infrastructure cybersecurity. URL: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST .CSWP, 4162018. Boeckl, K. R., &amp;amp; Lefkovitz, N. B. (2020). NIST privacy framework: A tool for improving privacy through enterprise risk management, version 1.0. URL</summary></entry><entry><title type="html">2.2 Operational Context</title><link href="http://localhost:4000/RMF/2-operation/2012/01/16/operational-context.html" rel="alternate" type="text/html" title="2.2 Operational Context" /><published>2012-01-16T00:00:00+00:00</published><updated>2012-01-16T00:00:00+00:00</updated><id>http://localhost:4000/RMF/2-operation/2012/01/16/operational-context</id><content type="html" xml:base="http://localhost:4000/RMF/2-operation/2012/01/16/operational-context.html">&lt;h2 id=&quot;question&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Question&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Has the deployment environment for the system been assessed and evaluated, including how output from the system will be utilized?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-my-organization-implement-this-sub-category&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;How can my organization implement this sub-category?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Document system requirements to account for risks that may arise when AI systems interact within intended operating context (beyond simply describing the requirements of the learning or decision-making task), and due to human-AI configurations.&lt;/p&gt;
+
+&lt;p&gt;Follow stakeholder feedback processes for determining whether a system achieves its documented purpose within its operating context, and whether users correctly comprehend system outputs or results.&lt;/p&gt;
+
+&lt;p&gt;Document any dependencies on upstream data or AI systems or instances in which the system in question is an upstream dependency for another data or AI system. Document any connection to external networks (including the internet), financial markets, critical infrastructure or other possibilities for serious negative externalities, list negative impacts, and consider the broader risk threshold and resulting go/no-go decision.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-actors&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;&lt;a href=&quot;https://pages.nist.gov/RMF/terms.html&quot;&gt;AI actors&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;[AI design, AI deployment, Human factors, Operators, Domain Experts]&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-transparency-considerations-and-resources&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;AI Transparency considerations and resources&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency Considerations – Key Questions: MAP 2.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Does the AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly?&lt;/li&gt;
+  &lt;li&gt;To what extent is the output of each component appropriate for the operational context?&lt;/li&gt;
+  &lt;li&gt;What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals     impacted by use of the AI system?&lt;/li&gt;
+  &lt;li&gt;Based on the assessment, did your organization implement the appropriate level of human involvement in AI-augmented decision-making? (WEF Assessment)&lt;/li&gt;
+  &lt;li&gt;How will the accountable human(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI or unrelated changes in operational/business environment, which may impact the accuracy of the AI?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Transparency Resources: MAP 2.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Datasheets for Datasets&lt;/li&gt;
+  &lt;li&gt;WEF Model AI Governance Framework Assessment 2020&lt;/li&gt;
+  &lt;li&gt;Companion to the Model AI Governance Framework- 2020&lt;/li&gt;
+  &lt;li&gt;ATARC Model Transparency Assessment (WD) – 2020&lt;/li&gt;
+  &lt;li&gt;Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-this-sub-category-about&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;What is this sub-category about?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;AI systems sometimes perform poorly, or present unanticipated negative impacts, once deployed in a given operational setting. Risks and incidents, such as misinterpretation of results by system users, may arise due to a variety of factors. One factor is an inability to anticipate downstream uses, either due to lack of information about deployment context, or development under highly-controlled environments or in optimized scenarios. Teams can reduce the likelihood of such incidents through detailed consideration of stakeholder input and enhanced contextual awareness for how an AI system may interact in its real-world setting. Recommended practices include broad stakeholder engagement with potentially impacted community groups, consideration of user interaction and user experience (UI/UX) factors, and regular system testing and evaluation in non-optimized conditions.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;where-might-i-go-to-learn-more&quot;&gt;&lt;span style=&quot;color:black;font-weight:360;font-size:26px&quot;&gt;Where might I go to learn more?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Smith, C. J. (2019). Designing trustworthy AI: A human-machine teaming framework to guide development. arXiv preprint arXiv:1910.03515.&lt;/p&gt;
+
+&lt;p&gt;Warden T, Carayon P, Roth EM, et al. The National Academies Board on Human System Integration (BOHSI) Panel: Explainable AI, System Transparency, and Human Machine Teaming. Proceedings of the Human Factors and Ergonomics Society Annual Meeting. 2019;63(1):631-635. doi:10.1177/1071181319631100&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Question Has the deployment environment for the system been assessed and evaluated, including how output from the system will be utilized? How can my organization implement this sub-category? Document system requirements to account for risks that may arise when AI systems interact within intended operating context (beyond simply describing the requirements of the learning or decision-making task), and due to human-AI configurations. Follow stakeholder feedback processes for determining whether a system achieves its documented purpose within its operating context, and whether users correctly comprehend system outputs or results. Document any dependencies on upstream data or AI systems or instances in which the system in question is an upstream dependency for another data or AI system. Document any connection to external networks (including the internet), financial markets, critical infrastructure or other possibilities for serious negative externalities, list negative impacts, and consider the broader risk threshold and resulting go/no-go decision. AI actors [AI design, AI deployment, Human factors, Operators, Domain Experts] AI Transparency considerations and resources Transparency Considerations – Key Questions: MAP 2.2 Does the AI solution provides sufficient information to assist the personnel to make an informed decision and take actions accordingly? To what extent is the output of each component appropriate for the operational context? What type of information is accessible on the design, operations, and limitations of the AI system to external stakeholders, including end users, consumers, regulators, and individuals impacted by use of the AI system? Based on the assessment, did your organization implement the appropriate level of human involvement in AI-augmented decision-making? (WEF Assessment) How will the accountable human(s) address changes in accuracy and precision due to either an adversary’s attempts to disrupt the AI or unrelated changes in operational/business environment, which may impact the accuracy of the AI? AI Transparency Resources: MAP 2.2 Datasheets for Datasets WEF Model AI Governance Framework Assessment 2020 Companion to the Model AI Governance Framework- 2020 ATARC Model Transparency Assessment (WD) – 2020 Transparency in Artificial Intelligence - S. Larsson and F. Heintz – 2020 What is this sub-category about? AI systems sometimes perform poorly, or present unanticipated negative impacts, once deployed in a given operational setting. Risks and incidents, such as misinterpretation of results by system users, may arise due to a variety of factors. One factor is an inability to anticipate downstream uses, either due to lack of information about deployment context, or development under highly-controlled environments or in optimized scenarios. Teams can reduce the likelihood of such incidents through detailed consideration of stakeholder input and enhanced contextual awareness for how an AI system may interact in its real-world setting. Recommended practices include broad stakeholder engagement with potentially impacted community groups, consideration of user interaction and user experience (UI/UX) factors, and regular system testing and evaluation in non-optimized conditions. Where might I go to learn more? Smith, C. J. (2019). Designing trustworthy AI: A human-machine teaming framework to guide development. arXiv preprint arXiv:1910.03515. Warden T, Carayon P, Roth EM, et al. The National Academies Board on Human System Integration (BOHSI) Panel: Explainable AI, System Transparency, and Human Machine Teaming. Proceedings of the Human Factors and Ergonomics Society Annual Meeting. 2019;63(1):631-635. doi:10.1177/1071181319631100</summary></entry></feed>
