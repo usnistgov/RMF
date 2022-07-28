@@ -23,9 +23,9 @@ A fundamental step to mapping context is having a broad and appropriate set of s
   <li> Plan and document the composition of AI design and development teams to reflect inter-disciplinary roles, competencies, skills and capacity for AI efforts; and ensure that team membership incorporates demographic diversity and broad domain expertise.</li>
   <li> Gain and maintain familiarity with the complexities and interdependencies of deployed AI systems; terminology and concepts from disciplines outside of AI practice such as the law, sociology, psychology, public policy, and systems design and engineering.</li>
   <li>  Maintain awareness of industry and technical standards and appropriate legal standards.</li>
-#### Track, document or inventory the organization's AI systems, including existing systems and third-party entities associated with AI systems.
+  <li> Track, document or inventory the organization's AI systems, including existing systems and third-party entities associated with AI systems.</li>
   <li> Gain and maintain awareness for how to scientifically evaulate claims about AI system performance and benefits before launching into system design and development to enable adherence to responsible practices.</li>
-  <li> Define and document the task, purpose, minimum functionality, and benefits of the AI system, and consider whether the project is worth pursuing.</lii>
+  <li> Define and document the task, purpose, minimum functionality, and benefits of the AI system, and consider whether the project is worth pursuing.</li>
   <li> Define the context of use, including operational environment; impacts to individuals, groups, communities, organizations, and society; user characteristics; task; and social environment; determine the user and organizational requirements, including business requirements, user requirements, and technical requirements.</li>
   <li> Identify human-AI interaction and/or roles, such as whether the application will support human decision making, replace a human, and make predictions; plan for risks related to these configurations; and document requirements, roles, and responsibilities for human oversight of deployed systems.</li>
   </ul>
