@@ -28,6 +28,7 @@ A fundamental step to mapping context is having a broad and appropriate set of s
 <li>  Define and document the task, purpose, minimum functionality, and benefits of the AI system, and consider whether the project is worth pursuing.
 <li>  Define the context of use, including operational environment; impacts to individuals, groups, communities, organizations, and society; user characteristics; task; and social environment; determine the user and organizational requirements, including business requirements, user requirements, and technical requirements.
 <li>  Identify human-AI interaction and/or roles, such as whether the application will support human decision making, replace a human, and make predictions; plan for risks related to these configurations; and document requirements, roles, and responsibilities for human oversight of deployed systems.
+
 </ul>
 
 </details>
